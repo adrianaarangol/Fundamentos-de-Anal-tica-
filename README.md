@@ -1,5 +1,5 @@
 # Fundamentos-de-Anal-tica-
-Repositorio de clase de fundamentos de analítica
+Repositorio de clase de fundamentos de analitica
 
 Esta es la linea 1
 
